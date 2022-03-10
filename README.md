@@ -1,2 +1,2 @@
 # Sidebar
-A sidebar implementation similar to YouTube's version, with functional side tab UI for sectioning.
+A sidebar implementation similar to the one on YouTube, with functional side tab UI for sectioning. Will update shortly...
